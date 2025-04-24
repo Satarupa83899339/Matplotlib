@@ -2,10 +2,10 @@
 5 Attractive codes 
 
 # Code 1:-  Visualizing a Trend:
-![image](https://github.com/user-attachments/assets/84cea15d-6256-4a9b-8b9a-02c9adf0917f)
+![image](https://github.com/user-attachments/assets/90916074-a5c6-427a-929b-44c9491fdc40)
 
 # code 2:- Comparing Category Values:
-![image](https://github.com/user-attachments/assets/3d9638c0-a76e-46de-aaf4-a15d009a3845)
+![image](https://github.com/user-attachments/assets/cae5bdad-1da3-45a3-be3b-058999ad13cc)
 
 # code 3:- Exploring Relationships:
 ![image](https://github.com/user-attachments/assets/cccfbff1-5442-4f70-ac22-e4e933726c06)

@@ -12,3 +12,6 @@
 
 # code 4:- Visualizing Proportions:
 ![image](https://github.com/user-attachments/assets/c7c11390-f2a5-496d-a828-fb4cfc1382d7)
+
+# code 5:- Showing a Distribution:
+![image](https://github.com/user-attachments/assets/17728b86-c779-4542-9c8b-74f41d85ecbf)

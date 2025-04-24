@@ -6,3 +6,6 @@
 
 # code 2:- Comparing Category Values:
 ![image](https://github.com/user-attachments/assets/3d9638c0-a76e-46de-aaf4-a15d009a3845)
+
+# code 3:- Exploring Relationships:
+![image](https://github.com/user-attachments/assets/cccfbff1-5442-4f70-ac22-e4e933726c06)

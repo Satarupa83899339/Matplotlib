@@ -9,3 +9,6 @@
 
 # code 3:- Exploring Relationships:
 ![image](https://github.com/user-attachments/assets/cccfbff1-5442-4f70-ac22-e4e933726c06)
+
+# code 4:- Visualizing Proportions:
+![image](https://github.com/user-attachments/assets/c7c11390-f2a5-496d-a828-fb4cfc1382d7)

@@ -1,4 +1,5 @@
-#code:2 ComparingCategoryValues.py
+#code:2 ComparingCategoryValues.py bar chart
+
 import matplotlib.pyplot as plt
 
 categories = ['A', 'B', 'C', 'D', 'E']

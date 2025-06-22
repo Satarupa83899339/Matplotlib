@@ -1,4 +1,4 @@
-# bar_chart.py
+#code:2 bar_chart.py
 import matplotlib.pyplot as plt
 
 categories = ['A', 'B', 'C', 'D', 'E']

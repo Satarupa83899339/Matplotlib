@@ -1,4 +1,4 @@
-#code: 1 VisualizingTrend.py
+#code: 1 VisualizingTrend.py line plot
 import numpy as np
 import matplotlib.pyplot as plt
 

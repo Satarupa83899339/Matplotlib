@@ -1,4 +1,4 @@
-# histogram.py
+#code:5 VisualizingProportions.py histogram
 import numpy as np
 import matplotlib.pyplot as plt
 

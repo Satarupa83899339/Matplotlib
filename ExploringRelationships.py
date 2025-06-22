@@ -1,4 +1,4 @@
-#code:4 ExploringRelationships.py scatter_plot
+#code:3 ExploringRelationships.py scatter_plot
 import numpy as np
 import matplotlib.pyplot as plt
 

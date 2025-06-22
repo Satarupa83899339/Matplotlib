@@ -1,4 +1,4 @@
-# pie_chart.py
+#code:4 VisualizingProportions.py pie_chart
 import matplotlib.pyplot as plt
 
 segments = [40, 25, 20, 15]
